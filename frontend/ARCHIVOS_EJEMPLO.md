@@ -70,23 +70,7 @@ Es perfecto para repasar apuntes, memorizar definiciones, o escuchar artículos 
 La voz generada por Amazon Polly es natural y clara, haciendo la experiencia de escucha muy cómoda.
 ```
 
----
 
-## Archivo 5: Descripción para README
-
-Guarda como `descripcion-proyecto.txt`:
-
-```
-Study Vault es una aplicación web serverless desarrollada con AWS que transforma archivos de texto en archivos de audio MP3 de alta calidad.
-
-El proyecto demuestra el uso de servicios AWS modernos incluyendo S3 para almacenamiento, Lambda para procesamiento sin servidor, y Amazon Polly para síntesis de voz avanzada.
-
-La aplicación cuenta con una interfaz frontend profesional desarrollada con JavaScript vanilla y el SDK de AWS, permitiendo una experiencia de usuario fluida y moderna.
-
-Toda la infraestructura está definida como código usando Terraform, facilitando el despliegue reproducible y la gestión de versiones.
-
-Este proyecto es ideal para el portfolio de cualquier desarrollador cloud, demostrando conocimientos prácticos de arquitecturas serverless y mejores prácticas de AWS.
-```
 
 ---
 
