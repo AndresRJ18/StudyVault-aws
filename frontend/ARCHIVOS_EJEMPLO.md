@@ -165,24 +165,4 @@ response = polly.synthesize_speech(
 )
 ```
 
----
-
-## 🎯 Para el Video Demo
-
-**Usa este texto (corto y claro):**
-
-```
-Hola, este es Study Vault, mi proyecto de conversión de texto a voz usando AWS.
-
-La aplicación utiliza Lambda, S3 y Amazon Polly para crear archivos de audio profesionales en cuestión de segundos.
-
-Toda la infraestructura está automatizada con Terraform, demostrando prácticas modernas de cloud computing.
-
-Este es un ejemplo perfecto de arquitectura serverless en acción.
-```
-
-Guárdalo como `demo-linkedin.txt` y úsalo para tu video.
-
----
-
-**¡Listo para probar! 🚀**
+**¡Pruebalo! 🚀**
