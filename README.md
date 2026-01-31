@@ -1,4 +1,4 @@
-# 🎧 Study Vault - Text to Speech AWS Project
+# 🎧 Study Vault — Serverless Text-to-Speech Platform on AWS
 
 ![AWS](https://img.shields.io/badge/AWS-Serverless-orange?style=for-the-badge&logo=amazon-aws)
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-Storage-success?style=for-the-badge&logo=amazon-s3)
