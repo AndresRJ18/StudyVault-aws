@@ -86,8 +86,8 @@ Este proyecto demuestra:
 ## 👤 Autor
 
 **Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/AndresRJ18)
-- LinkedIn: [tu-perfil](www.linkedin.com/in/andres-rodas-802309272)
+- GitHub: [@AndresRJ18](https://github.com/AndresRJ18)
+- LinkedIn: [Andres Rodas](www.linkedin.com/in/andres-rodas-802309272)
 
 ## 📄 Licencia
 
